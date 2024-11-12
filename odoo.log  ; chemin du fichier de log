@@ -1,0 +1,10 @@
+2024-11-12 14:23:27,002 6692 INFO ? odoo: Odoo version 18.0 
+2024-11-12 14:23:27,002 6692 INFO ? odoo: Using configuration file at C:\Users\l.bruyere\src\odoo\odoo.conf 
+2024-11-12 14:23:27,002 6692 INFO ? odoo: addons paths: ['C:\\Users\\l.bruyere\\src\\odoo\\odoo\\addons', 'c:\\users\\l.bruyere\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\l.bruyere\\src\\odoo\\addons  ; chemin des modules addons', 'c:\\users\\l.bruyere\\src\\odoo\\odoo\\addons'] 
+2024-11-12 14:23:27,002 6692 INFO ? odoo: database: Odoo   ; Nom de l'utilisateur PostgreSQL@default:default 
+2024-11-12 14:23:27,081 6692 INFO ? odoo.sql_db: Connection to the database failed 
+2024-11-12 14:34:59,379 7788 INFO ? odoo: Odoo version 18.0 
+2024-11-12 14:34:59,379 7788 INFO ? odoo: Using configuration file at C:\Users\l.bruyere\src\odoo\odoo.conf 
+2024-11-12 14:34:59,379 7788 INFO ? odoo: addons paths: ['C:\\Users\\l.bruyere\\src\\odoo\\odoo\\addons', 'c:\\users\\l.bruyere\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\l.bruyere\\src\\odoo\\addons  ; chemin des modules addons', 'c:\\users\\l.bruyere\\src\\odoo\\odoo\\addons'] 
+2024-11-12 14:34:59,379 7788 INFO ? odoo: database: Odoo   ; Nom de l'utilisateur PostgreSQL@default:default 
+2024-11-12 14:34:59,432 7788 INFO ? odoo.sql_db: Connection to the database failed 
